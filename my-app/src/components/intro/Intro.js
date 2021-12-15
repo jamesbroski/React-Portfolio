@@ -17,6 +17,11 @@ const Intro = () => {
               <div className="i-title-item">Coffee Connoisseur</div>
             </div>
           </div>
+          <div className="i-desc">
+            I am a Certified Full Stack Web Developer. I love creating unique,
+            stylish, and responsive websites. Feel free to take a look at my
+            portfolio below, thanks!
+          </div>
         </div>
       </div>
       <div className="i-right">right</div>
