@@ -1,5 +1,6 @@
 import React from "react";
 import "./Intro.css";
+import Me from "../../img/me.png";
 
 const Intro = () => {
   return (
@@ -17,14 +18,17 @@ const Intro = () => {
               <div className="i-title-item">Coffee Connoisseur</div>
             </div>
           </div>
-          <div className="i-desc">
+          <p className="i-desc">
             I am a Certified Full Stack Web Developer. I love creating unique,
             stylish, and responsive websites. Feel free to take a look at my
             portfolio below, thanks!
-          </div>
+          </p>
         </div>
       </div>
-      <div className="i-right">right</div>
+      <div className="i-right">
+        <div className="i-bg"></div>
+        <img src={Me} alt="" className="i-img" />
+      </div>
     </div>
   );
 };
