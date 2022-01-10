@@ -37,3 +37,9 @@
   object-fit: cover;
   position: relative;
 }
+
+.a-award-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
+}
