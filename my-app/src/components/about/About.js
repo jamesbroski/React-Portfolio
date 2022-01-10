@@ -29,6 +29,12 @@ const About = () => {
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img"></img>
+          <div className="a-award-texts">
+            <h4 className="a-award-title">
+              Certified Full Stack Web Developer - University of Denver 2021
+            </h4>
+            <p className="a-award-desc">12-week intensive coding bootcamp</p>
+          </div>
         </div>
       </div>
     </div>

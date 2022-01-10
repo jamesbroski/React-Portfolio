@@ -21,7 +21,7 @@
   position: absolute;
   top: 50px;
   left: 50px;
-  background-color: #333;
+  background-color: #2b6777;
 }
 
 .a-card {
@@ -42,4 +42,32 @@
   width: 150px;
   height: 150px;
   border-radius: 20px;
+}
+
+.a-title {
+  font-weight: 400;
+}
+
+.a-sub {
+  margin: 10px 0px;
+}
+
+.a-desc {
+  font-weight: 300;
+}
+
+.a-award {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.a-award-texts {
+  width: 70%;
+}
+
+.a-award-title {
+  font-weight: bold;
+  margin-bottom: 10px;
 }
