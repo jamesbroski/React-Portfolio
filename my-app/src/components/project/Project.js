@@ -1,7 +1,7 @@
-import "./Product.css";
+import "./Project.css";
 
 const Project = () => {
-  return <div>card</div>;
+  return <div className="p">card</div>;
 };
 
 export default Project;
