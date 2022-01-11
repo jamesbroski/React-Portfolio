@@ -15,7 +15,7 @@ const Intro = () => {
               <div className="i-title-item">Frontend & Backend</div>
               <div className="i-title-item">React.js</div>
               <div className="i-title-item">JavaScript</div>
-              <div className="i-title-item">MERN Stack</div>
+              <div className="i-title-item">MERN Stack , & more!</div>
             </div>
           </div>
           <p className="i-desc">
