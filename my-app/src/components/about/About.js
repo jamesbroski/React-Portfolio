@@ -1,5 +1,5 @@
 import "./About.css";
-import Denver from "../../img/unionstation.png";
+import Denver from "../../img/denverskyline2.png";
 import Award from "../../img/DUbadge.png";
 
 const About = () => {
