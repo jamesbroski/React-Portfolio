@@ -14,8 +14,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          Colorado Native. Background in Sports Medicine. Certified Web
-          Developer.
+          Colorado Native. Background in Sports Medicine. Coffee Connoisseur.
         </p>
         <br></br>
         <p className="a-desc">

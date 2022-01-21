@@ -11,7 +11,7 @@ export const projects = [
   },
   {
     id: 3,
-    img: "https://i.imgur.com/BhDle62.jpg",
+    img: "https://i.imgur.com/lJItLzp.png",
     link: "https://jamesbroski.github.io/theVibeForecast/",
   },
   {
