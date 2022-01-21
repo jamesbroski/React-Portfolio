@@ -1,18 +1,18 @@
 export const projects = [
   {
     id: 1,
-    img: "",
-    link: "",
+    img: "https://i.imgur.com/JJm3Z58.jpg",
+    link: "https://git-outside.herokuapp.com/",
   },
   {
     id: 2,
-    img: "",
-    link: "",
+    img: "https://i.imgur.com/gddmfPQ.jpg",
+    link: "https://boiling-reef-48460.herokuapp.com/",
   },
   {
     id: 3,
-    img: "",
-    link: "",
+    img: "https://i.imgur.com/BhDle62.jpg",
+    link: "https://jamesbroski.github.io/theVibeForecast/",
   },
   {
     id: 4,
