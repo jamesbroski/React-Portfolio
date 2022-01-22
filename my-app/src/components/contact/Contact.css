@@ -72,4 +72,10 @@ textarea {
 }
 
 button {
+  border: none;
+  padding: 15px;
+  background-color: #2a6777;
+  color: #ffffff;
+  font-weight: 500;
+  cursor: pointer;
 }
