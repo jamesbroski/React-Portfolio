@@ -29,8 +29,19 @@ const Contact = () => {
         <div className="c-right">
           <p className="c-desc">
             <b>Have any questions?</b> Feel free to reach out with any inquires
-            that you may have!
+            that you may have.
           </p>
+          <form>
+            <input type="text" placeholder="Name" name="user_name"></input>
+            <input
+              type="text"
+              placeholder="Subject"
+              name="user_subject"
+            ></input>
+            <input type="text" placeholder="Email" name="user_email"></input>
+            <textarea rows="5" placeholder="Message" name="message"></textarea>
+            <button>Submit</button>
+          </form>
         </div>
       </div>
     </div>

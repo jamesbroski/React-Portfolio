@@ -8,8 +8,8 @@ const ProjectList = () => {
       <div className="pl-texts">
         <h1 className="pl-title">Portfolio</h1>
         <p className="pl-desc">
-          Below are some of my latest full-stack projects. Please click to view
-          the live applications or Github Repositories.
+          Below are some of my latest full-stack projects. Click a card to view
+          the live application.
         </p>
       </div>
       <div className="pl-list">
