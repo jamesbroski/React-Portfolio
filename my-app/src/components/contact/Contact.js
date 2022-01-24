@@ -3,6 +3,7 @@ import "./Contact.css";
 import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
+import Badge from "../../img/DUbadge.png";
 import { useRef } from "react";
 import { useState } from "react";
 import emailjs from "@emailjs/browser";
@@ -48,6 +49,18 @@ const Contact = () => {
             <div className="c-info-item">
               <img src={Address} alt="" className="c-icon" />
               Denver, Colorado
+            </div>
+            <div className="c-info-item">
+              <img src={Badge} alt="" className="c-icon" />
+              Resume -
+              <a
+                class="text-success"
+                href="https://docs.google.com/document/d/1U_RxEn66K3NuNRRhaSica_rdD0ceUp_HXhTeFTQWYwo/edit?usp=sharing"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Click Here!
+              </a>
             </div>
           </div>
         </div>
